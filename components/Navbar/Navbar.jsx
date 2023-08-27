@@ -6,7 +6,7 @@ const Navbar = () => {
     <>
     <nav className='nav-container'>
         <div className="nav-logo-container">
-            <img src="src/public/metalmind-logo.png" alt=""/>
+            <img src="images/metalmind-logo.png" alt=""/>
             <h1>metalmind</h1>
         </div>
 

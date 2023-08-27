@@ -25,7 +25,7 @@ const Footer = () => {
                 <div className="footer-info-container">
                     <div className="footer-info-container-block">
                         <div className="footer-bloque-logo">
-                            <img src="src/public/metalmind-logo.png" alt="" />
+                            <img src="images/metalmind-logo.png" alt="" />
                             <GoogleMap />
 
                         </div>
@@ -82,7 +82,7 @@ const Footer = () => {
                                 <div className='contact-form'>
                                     <div className="renglon">
                                         <div className="renglon-ico">
-                                            <img src="src/public/localizacion.png" alt="" />
+                                            <img src="images/localizacion.png" alt="" />
                                         </div>
                                         <div className="renglon-text">
                                             <p>Gobernador del Pino 3916</p>
@@ -90,7 +90,7 @@ const Footer = () => {
                                     </div>
                                     <div className="renglon">
                                         <div className="renglon-ico">
-                                            <img src="src/public/correo-electronico.png" alt="" />
+                                            <img src="images/correo-electronico.png" alt="" />
                                         </div>
                                         <div className="renglon-text">
                                             <p>clientes@metalmind.com.uy</p>
@@ -98,7 +98,7 @@ const Footer = () => {
                                     </div>
                                     <div className="renglon">
                                         <div className="renglon-ico">
-                                            <img src="src/public/telefono-inteligente.png" alt="" />
+                                            <img src="images/telefono-inteligente.png" alt="" />
                                         </div>
                                         <div className="renglon-text">
                                             <p>23090045 / 095551356</p>

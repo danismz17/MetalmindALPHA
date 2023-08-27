@@ -36,12 +36,12 @@ const Hero = () => {
   return (
     <div className="hero-container">
       <video ref={videoRef} autoPlay muted>
-        <source src="src/public/hero-video-1.mp4" type="video/mp4" />
+        <source src="images/hero-video-1.mp4" type="video/mp4" />
         Tu navegador no admite el elemento de video.
       </video>
 
       <div className={`hero-text-container ${showSlideInRight ? 'slide-in-right' : 'hidden'}`}>
-        <img src="src/public/metalmind-logo.png" alt="" />
+        <img src="images/metalmind-logo.png" alt="" />
         <h2>Transformando Ideas <br /> en Metal desde 1985</h2>
       </div>
     </div>

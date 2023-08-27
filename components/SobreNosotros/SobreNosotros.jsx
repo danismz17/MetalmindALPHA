@@ -25,27 +25,27 @@ const SobreNosotros = () => {
                     </p>
                 </div>
                 <div className="SobreNosotros-image-container">
-                    {/* <img src="src/public/metalurgica.JPG" alt="" /> */}
-                    <img src="src\public\metalmind-retro.png" alt="" />
+                    {/* <img src="images/metalurgica.JPG" alt="" /> */}
+                    <img src="images/metalmind-retro.png" alt="" />
                 </div>
             </div>
 
             <div className="SobreNosotros-ico-container">
 
                 <FeaturesCards
-                    ico="src/public/calendar.png"
+                    ico="images/calendar.png"
                     titulo="Trayectoria"
                     descripcion="+35 años en el mercado"
                 />
 
                 <FeaturesCards
-                    ico="src/public/ideas.png"
+                    ico="images/ideas.png"
                     titulo="Compromiso"
                     descripcion="Trabajos garantizados"
                 />
 
                 <FeaturesCards
-                    ico="src/public/diseño.png"
+                    ico="images/diseño.png"
                     titulo="Creatividad"
                     descripcion="Soluciones innovadoras"
                 />

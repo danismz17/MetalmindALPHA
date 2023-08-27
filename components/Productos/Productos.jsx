@@ -76,73 +76,73 @@ export const Productos = () => {
                 variants={productosCardContainer}
             >
                 <ProductCards
-                    imagen="src/public/cilindros.png"
+                    imagen="images/cilindros.png"
                     item="Cilindros"
                     descripcion="Amplia variedad de mm"
                     onClick={() => handleProductClick("Cilindros")}
                 />
                 <ProductCards
-                    imagen="src/public/caños.png"
+                    imagen="images/caños.png"
                     item="Caños"
                     descripcion="Diferentes calibres y materiales"
                     onClick={() => handleProductClick("Caños")}
                 />
                 <ProductCards
-                    imagen="src/public/Flanger.png"
+                    imagen="images/Flanger.png"
                     item="Bridas"
                     descripcion="Juego completo o piezas individuales"
                     onClick={() => handleProductClick("Bridas")}
                 />
                 <ProductCards
-                    imagen="src/public/valvulas.png"
+                    imagen="images/valvulas.png"
                     item="Válvulas"
                     descripcion="para albañileria, mecanica, entre otros"
                     onClick={() => handleProductClick("Válvulas")}
                 />
                 <ProductCards
-                    imagen="src/public/mortero.png"
+                    imagen="images/mortero.png"
                     item="Mortero"
                     descripcion="Juego completo o por pieza"
                     onClick={() => handleProductClick("Mortero")}
                 />
                 <ProductCards
-                    imagen="src/public/varillas.png"
+                    imagen="images/varillas.png"
                     item="Varillas"
                     descripcion="Diferente calibre, longitud y terminacion"
                     onClick={() => handleProductClick("Varillas")}
                 />
                 <ProductCards
-                    imagen="src/public/arandela.png"
+                    imagen="images/arandela.png"
                     item="Arandelas"
                     descripcion="Amplia variedad de mm y materiales"
                     onClick={() => handleProductClick("Arandelas")}
                 />
                 <ProductCards
-                    imagen="src/public/electricidad.png"
+                    imagen="images/electricidad.png"
                     item="Electricidad"
                     descripcion="Cajas electricas, ductos, centrales, etc"
                     onClick={() => handleProductClick("Electricidad")}
                 />
                 <ProductCards
-                    imagen="src/public/tapadecilindro.png"
+                    imagen="images/tapadecilindro.png"
                     item="Motores"
                     descripcion="Copa de motor, tapa de junta, etc"
                     onClick={() => handleProductClick("Motores")}
                 />
                 <ProductCards
-                    imagen="src/public/muebles.png"
+                    imagen="images/muebles.png"
                     item="Muebles"
                     descripcion="Interior y exterior, terminaciones en madera o metal"
                     onClick={() => handleProductClick("Muebles")}
                 />
                 <ProductCards
-                    imagen="src/public/tornilleria.png"
+                    imagen="images/tornilleria.png"
                     item="Tornilleria"
                     descripcion="Diferentes pulgadas"
                     onClick={() => handleProductClick("Tornilleria")}
                 />
                 <ProductCards
-                    imagen="src/public/estanteria.png"
+                    imagen="images/estanteria.png"
                     item="Exhibidores y Estanterias"
                     descripcion="Diseños a medida, materiales a eleccion"
                     onClick={() => handleProductClick("Estanterias")}
