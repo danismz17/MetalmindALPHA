@@ -1,0 +1,174 @@
+.hero-container {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    z-index: 80;
+}
+
+.hero-container video {
+    width: 100%;
+    height: auto;
+}
+
+.hero-text-container {
+    width: 50%;
+    height: 100%;
+    position: absolute;
+    background-color: #F1234A;
+    background:
+        linear-gradient(135deg, #0000 18.75%, #494949 0 31.25%, #0000 0),
+        repeating-linear-gradient(45deg, #494949 -6.25% 6.25%, #424242 0 18.75%);
+    background-size: 30px 30px;
+    margin-left: 50%;
+    clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Raleway', sans-serif;
+    overflow: hidden;
+    text-align: center;
+}
+
+.hero-text-container h2 {
+    font-size: 3.5em;
+    color: white;
+    font-weight: 200;
+}
+
+
+  /* Tamaño por defecto pantallas (1366-1280) */
+  @media all and (min-width: 1280px) and (max-width: 1366px) {
+
+    .hero-text-container {
+        width: 60%;
+        height: 100%;
+        position: absolute;
+        background-color: #F1234A;
+        background:
+            linear-gradient(135deg, #0000 18.75%, #494949 0 31.25%, #0000 0),
+            repeating-linear-gradient(45deg, #494949 -6.25% 6.25%, #424242 0 18.75%);
+        background-size: 30px 30px;
+        margin-left: 50%;
+        clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        font-family: 'Raleway', sans-serif;
+        overflow: hidden;
+        text-align: center;
+    }
+
+    .hero-text-container h2 {
+        font-size: 2.5em;
+        color: white;
+        font-weight: 200;
+    }
+
+
+   }
+  
+  /* Tamaño por defecto pantallas (1280-1024) */
+  @media all and (min-width: 1024px) and (max-width: 1280px) {
+    .hero-text-container h2 {
+        font-size: 2em;
+        color: white;
+        font-weight: 200;
+    }
+
+   }
+
+  /* Tamaño tablet horizontal (1024-768) */
+  @media all and (min-width: 768px) and (max-width: 1024px) {
+    .hero-text-container {
+        width: 60%;
+        height: 50%;
+        position: absolute;
+        background-color: #F1234A;
+        background:
+            linear-gradient(135deg, #0000 18.75%, #494949 0 31.25%, #0000 0),
+            repeating-linear-gradient(45deg, #494949 -6.25% 6.25%, #424242 0 18.75%);
+        background-size: 30px 30px;
+        margin-left: 50%;
+        clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        font-family: 'Raleway', sans-serif;
+        overflow: hidden;
+        text-align: center;
+    }
+
+    .hero-text-container img {
+        width: 30%;
+    }
+    
+    .hero-text-container h2 {
+        font-size: 1.5em;
+        color: white;
+        font-weight: 200;
+    }
+    
+   }
+
+  /* Tamaño tablet (768-480) */
+  @media all and (min-width: 480px) and (max-width: 768px) {}
+
+  /* Tamaño teléfonos (480-menos ) */
+  @media all and (max-width: 480px) {
+    
+
+    .hero-text-container {
+        width: 80%;
+        height: 30%;
+        position: absolute;
+        background-color: #F1234A;
+        background:
+            linear-gradient(135deg, #0000 18.75%, #494949 0 31.25%, #0000 0),
+            repeating-linear-gradient(45deg, #494949 -6.25% 6.25%, #424242 0 18.75%);
+        background-size: 30px 30px;
+        margin-left: 60%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        font-family: 'Raleway', sans-serif;
+        overflow: hidden;
+        text-align: center;
+    }
+
+    
+    
+    .hero-text-container img {
+        width: 30%;
+    }
+    
+    .hero-text-container h2 {
+        font-size: .8em;
+        color: white;
+        font-weight: 200;
+    }
+   }
+
+  /*  Orientación: Vertical */
+  @media screen and (orientation:portrait) { }
+
+  /* Orientación: Horizontal  */
+  @media screen and (orientation:landscape) { }
+
+  /* iPhone - Orientación: Vertical */
+  @media screen and (max-device-width: 480px) and (orientation:portrait) { }
+
+  /* iPhone - Orientación: Horizontal  */
+  @media screen and (max-device-width: 480px) and (orientation:landscape) { }
+
+  /* iPad - Orientación: Vertical */
+  @media screen and (min-device-width: 481px) and (orientation:portrait) { }
+
+  /* iPad - Orientación: Horizontal  */
+  @media screen and (min-device-width: 481px) and (orientation:landscape) { }

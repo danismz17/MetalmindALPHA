@@ -1,0 +1,210 @@
+.SobreNosotros-container {
+    width: 100%;
+    height: 700px;
+    background-color: #F5F5F5;
+    background-color: #0000;
+    background:
+        linear-gradient(135deg, #0000 18.75%, #494949 0 31.25%, #0000 0),
+        repeating-linear-gradient(45deg, #494949 -6.25% 6.25%, #424242 0 18.75%);
+    background-size: 30px 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    font-family: 'Raleway', sans-serif;
+    position: relative;
+
+}
+
+.SobreNosotros-text-container {
+    width: 45%;
+    height: 500px;
+    padding-bottom: 100px;
+    background-color: #F1234A;
+    background-color: #f123496a;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.SobreNosotros-text-container h2 {
+    margin-top: 80px;
+    margin-bottom: 20px;
+    font-size: 3em;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: 3px;
+
+}
+
+.SobreNosotros-text-container p {
+    margin: 0;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 20px;
+    color: #F5F5F5;
+    line-height: 25px;
+}
+
+.SobreNosotros-image-container {
+    width: 45%;
+    height: 500px;
+    padding-bottom: 100px;
+    background-color: rgb(35, 35, 35);
+    background-image: url(src/public/rustyback.jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.SobreNosotros-image-container img {
+    /* width: 150%; */
+    width: 40%;
+    rotate: 15deg;
+
+}
+
+.SobreNosotros-ico-container {
+    width: 70%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 1620px;
+    z-index: 99;
+}
+
+
+/* Tamaño por defecto pantallas (1366-1280) */
+@media all and (min-width: 1280px) and (max-width: 1366px) {
+    .SobreNosotros-container {
+        height: 800px;
+    }
+
+    .SobreNosotros-text-container {
+        height: 650px;
+    }
+
+    .SobreNosotros-image-container {
+        height: 650px;
+    }
+
+    .SobreNosotros-image-container img {
+        width: 70%;
+    }
+
+    .SobreNosotros-ico-container {
+        top: 1420px;
+    }
+
+}
+
+/* Tamaño por defecto pantallas (1280-1024) */
+@media all and (min-width: 1024px) and (max-width: 1280px) {
+    .SobreNosotros-container {
+        height: 800px;
+    }
+
+    .SobreNosotros-text-container {
+        height: 650px;
+    }
+
+    .SobreNosotros-image-container {
+        height: 650px;
+    }
+
+    .SobreNosotros-image-container img {
+        width: 70%;
+    }
+
+    .SobreNosotros-ico-container {
+        top: 1420px;
+    }
+}
+
+/* Tamaño tablet horizontal (1024-768) */
+@media all and (min-width: 768px) and (max-width: 1024px) {}
+
+/* Tamaño tablet (768-480) */
+@media all and (min-width: 480px) and (max-width: 768px) {
+
+    .SobreNosotros-container {
+        width: 100%;
+        height: 1500px;
+        flex-direction: column;
+    }
+
+    .SobreNosotros-text-container {
+        width: 100%;
+        height: 600px;
+    }
+
+    .SobreNosotros-image-container {
+        width: 100%;
+        height: 600px;
+    }
+
+    .SobreNosotros-image-container img {
+        padding-top: 100px;
+        width: 55%;
+    }
+
+    .SobreNosotros-ico-container {
+        top: 1050px;
+    }
+}
+
+/* Tamaño teléfonos (480-menos ) */
+@media all and (max-width: 480px) {
+    .SobreNosotros-container {
+        width: 100%;
+        height: 1860px;
+        flex-direction: column;
+    }
+
+    .SobreNosotros-text-container {
+        width: 100%;
+        height: 1100px;
+    }
+
+    .SobreNosotros-image-container {
+        width: 100%;
+        height: 400px;
+    }
+
+    .SobreNosotros-image-container img {
+        padding-top: 100px;
+        width: 80%;
+    }
+
+    .SobreNosotros-ico-container {
+        width: 100%;
+        height: 300px;
+        top: 1300px;
+    }
+}
+
+
+
+/*  Orientación: Vertical */
+@media screen and (orientation:portrait) {}
+
+/* Orientación: Horizontal  */
+@media screen and (orientation:landscape) {}
+
+/* iPhone - Orientación: Vertical */
+@media screen and (max-device-width: 480px) and (orientation:portrait) {}
+
+/* iPhone - Orientación: Horizontal  */
+@media screen and (max-device-width: 480px) and (orientation:landscape) {}
+
+/* iPad - Orientación: Vertical */
+@media screen and (min-device-width: 481px) and (orientation:portrait) {}
+
+/* iPad - Orientación: Horizontal  */
+@media screen and (min-device-width: 481px) and (orientation:landscape) {}

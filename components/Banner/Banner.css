@@ -1,0 +1,121 @@
+.banner-container {
+    width: 100%;
+    height: 400px;
+    background-image: url(src/public/sparks.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Raleway', sans-serif;
+    z-index: 99;
+}
+
+.banner-container-image {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner-container-text {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 3.5em;
+    color: white;
+    font-weight: 200;
+}
+
+.banner-container-text h3 {
+    padding-left: 50px;
+}
+
+.banner-container-text span {
+    color: #F1234A;
+}
+
+.btn {
+    font-size: .7em;
+    font-weight: 100;
+    border: 2px solid white;
+    background-color: #F1234A;
+    color: aliceblue;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-bottom: 60px;
+}
+
+/* Tamaño por defecto pantallas (1366-1280) */
+@media all and (min-width: 1280px) and (max-width: 1366px) {}
+
+/* Tamaño por defecto pantallas (1280-1024) */
+@media all and (min-width: 1024px) and (max-width: 1280px) {}
+
+/* Tamaño tablet horizontal (1024-768) */
+@media all and (min-width: 768px) and (max-width: 1024px) {}
+
+/* Tamaño tablet (768-480) */
+@media all and (min-width: 480px) and (max-width: 768px) {
+
+    .banner-container {
+        width: 100%;
+        height: 80vh;
+        transform: rotate(90deg);
+    }
+
+    .banner-container img {
+        width: 120%;
+        transform: rotate(270deg);
+    }
+
+    .banner-container-text {
+        width: 50%;
+        height: 100%;
+        transform: rotate(270deg);
+    }
+
+}
+/* Tamaño teléfonos (480-menos ) */
+@media all and (max-width: 480px) {
+    
+    .banner-container {
+        width: 100vh;
+        height: 100vh;
+        transform: rotate(90deg);
+    }
+    .banner-container img{
+        width: 95%;
+        transform: rotate(270deg);
+    }
+
+    .banner-container-text {
+        width: 50%;
+        height: 100%;
+        font-size: 2.5em;
+        transform: rotate(270deg);
+    }
+}
+
+/*  Orientación: Vertical */
+@media screen and (orientation:portrait) {}
+
+/* Orientación: Horizontal  */
+@media screen and (orientation:landscape) {}
+
+/* iPhone - Orientación: Vertical */
+@media screen and (max-device-width: 480px) and (orientation:portrait) {}
+
+/* iPhone - Orientación: Horizontal  */
+@media screen and (max-device-width: 480px) and (orientation:landscape) {}
+
+/* iPad - Orientación: Vertical */
+@media screen and (min-device-width: 481px) and (orientation:portrait) {}
+
+/* iPad - Orientación: Horizontal  */
+@media screen and (min-device-width: 481px) and (orientation:landscape) {}

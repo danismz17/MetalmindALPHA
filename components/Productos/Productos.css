@@ -1,0 +1,119 @@
+.productos-container{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #F5F5F5;
+    font-family: 'Raleway', sans-serif;
+    
+
+}
+
+.productos-titulo-container{
+    width: 90%;
+    height: 200px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    font-size: 1.8em;
+    font-weight: bold;
+    color: #F1234A
+    
+}
+
+.productos-titulo-container h2{
+    font-size: 2em;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+
+.productos-card-container{
+    width: 80%;
+    height: 900px;
+    background-color: burlywood;
+    background-color: #F5F5F5;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+    align-content: flex-start;
+    padding-top: 20px; 
+    position: relative;
+    z-index: 70;  
+}
+
+	/* Tamaño por defecto pantallas (1366-1280) */	 
+	@media all and (min-width: 1280px) and (max-width: 1366px) {
+
+        .productos-titulo-container{
+            justify-content: start;
+        }
+        
+        .productos-card-container{
+            height: auto;
+            padding-bottom: 10%;  
+        }
+     }
+  
+  /* Tamaño por defecto pantallas (1280-1024) */
+  @media all and (min-width: 1024px) and (max-width: 1280px) {
+
+    .productos-titulo-container{
+        justify-content: center;
+    }
+
+    .productos-card-container{
+        height: auto;
+        padding-bottom: 10%;  
+    }
+
+   }
+
+  /* Tamaño tablet horizontal (1024-768) */
+  @media all and (min-width: 768px) and (max-width: 1024px) {
+
+    .productos-titulo-container{
+        justify-content: center;
+    }
+
+    .productos-card-container{
+        height: auto;
+        padding-bottom: 10%;  
+    }
+   }
+
+  /* Tamaño tablet (768-480) */
+  @media all and (min-width: 480px) and (max-width: 768px) { }
+
+  /* Tamaño teléfonos (480-menos ) */
+  @media all and (max-width: 480px) {
+    .productos-titulo-container{
+        justify-content: center;
+    }
+
+    .productos-card-container{
+        height: auto;
+        padding-bottom: 20%;  
+    }
+   }
+
+  /*  Orientación: Vertical */
+  @media screen and (orientation:portrait) { }
+
+  /* Orientación: Horizontal  */
+  @media screen and (orientation:landscape) { }
+
+  /* iPhone - Orientación: Vertical */
+  @media screen and (max-device-width: 480px) and (orientation:portrait) { }
+
+  /* iPhone - Orientación: Horizontal  */
+  @media screen and (max-device-width: 480px) and (orientation:landscape) { }
+
+  /* iPad - Orientación: Vertical */
+  @media screen and (min-device-width: 481px) and (orientation:portrait) { }
+
+  /* iPad - Orientación: Horizontal  */
+  @media screen and (min-device-width: 481px) and (orientation:landscape) { }
+
