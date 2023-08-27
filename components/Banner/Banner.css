@@ -1,7 +1,7 @@
 .banner-container {
     width: 100%;
     height: 400px;
-    background-image: url(src/public/sparks.jpg);
+    background-image: url(images/sparks.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
