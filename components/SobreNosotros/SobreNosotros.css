@@ -52,7 +52,7 @@
     height: 500px;
     padding-bottom: 100px;
     background-color: rgb(35, 35, 35);
-    background-image: url(src/public/rustyback.jpg);
+    background-image: url(images/rustyback.jpg);
     background-size: cover;
     display: flex;
     flex-direction: column;
