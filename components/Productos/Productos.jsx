@@ -88,7 +88,7 @@ export const Productos = () => {
                     onClick={() => handleProductClick("Caños")}
                 />
                 <ProductCards
-                    imagen="images/Flanger.png"
+                    imagen="images/flanger.png"
                     item="Bridas"
                     descripcion="Juego completo o piezas individuales"
                     onClick={() => handleProductClick("Bridas")}
