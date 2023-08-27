@@ -773,7 +773,7 @@
                             "id": "MUE-001",
                             "nombreProducto": "Silla de Oficina Ergonómica",
                             "descripcionProducto": "Silla de oficina ergonómica con ajustes de altura y respaldo",
-                            "imagenProducto": "src\\public\\silla_ergonomica.png",
+                            "imagenProducto": "images/muebles.png",
                             "datoProducto": "color",
                             "infoDatoProducto": "Negro, Gris, Azul, Rojo"
                         },
