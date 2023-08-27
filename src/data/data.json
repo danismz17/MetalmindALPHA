@@ -225,7 +225,7 @@
                     "id": "BRI-007",
                     "nombreProducto": "Brida de Rosca",
                     "descripcionProducto": "Brida de rosca para conexiones ajustables",
-                    "imagenProducto": "src\\public\\brida_rosca.png",
+                    "imagenProducto": "images/flanger.png",
                     "datoProducto": "diámetro en pulgadas",
                     "infoDatoProducto": "1/2\", 3/4\", 1\", 1.25\""
                 },
