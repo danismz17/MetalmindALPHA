@@ -7,7 +7,7 @@
                     "id": "CIL-001",
                     "nombreProducto": "Cilindro Estándar",
                     "descripcionProducto": "Cilindro estándar para aplicaciones industriales",
-                    "imagenProducto": "src/public/cilindros.png",
+                    "imagenProducto": "images/cilindros.png",
                     "datoProducto": "diámetro en mm",
                     "infoDatoProducto": "50mm, 75mm, 100mm, 125mm"
                 },
@@ -15,7 +15,7 @@
                     "id": "CIL-002",
                     "nombreProducto": "Cilindro de Doble Acción",
                     "descripcionProducto": "Cilindro de doble acción para maquinaria pesada",
-                    "imagenProducto": "src/public/cilindros.png",
+                    "imagenProducto": "images/cilindros.png",
                     "datoProducto": "diámetro en mm",
                     "infoDatoProducto": "100mm, 150mm, 200mm, 250mm"
                 },
@@ -23,7 +23,7 @@
                     "id": "CIL-003",
                     "nombreProducto": "Cilindro Neumático",
                     "descripcionProducto": "Cilindro neumático compacto para automatización",
-                    "imagenProducto": "src/public/cilindros.png",
+                    "imagenProducto": "images/cilindros.png",
                     "datoProducto": "diámetro en mm",
                     "infoDatoProducto": "20mm, 30mm, 40mm, 50mm"
                 },
@@ -31,7 +31,7 @@
                     "id": "CIL-004",
                     "nombreProducto": "Cilindro Hidráulico",
                     "descripcionProducto": "Cilindro hidráulico de alta resistencia",
-                    "imagenProducto": "src/public/cilindros.png",
+                    "imagenProducto": "images/cilindros.png",
                     "datoProducto": "diámetro en mm",
                     "infoDatoProducto": "75mm, 100mm, 125mm, 150mm"
                 },
@@ -39,7 +39,7 @@
                     "id": "CIL-005",
                     "nombreProducto": "Cilindro Telescópico",
                     "descripcionProducto": "Cilindro telescópico ajustable para elevación",
-                    "imagenProducto": "src/public/cilindros.png",
+                    "imagenProducto": "images/cilindros.png",
                     "datoProducto": "longitud en mm",
                     "infoDatoProducto": "500mm, 750mm, 1000mm, 1500mm"
                 },
@@ -47,7 +47,7 @@
                     "id": "CIL-006",
                     "nombreProducto": "Cilindro de Precisión",
                     "descripcionProducto": "Cilindro de precisión para aplicaciones médicas",
-                    "imagenProducto": "src/public/cilindros.png",
+                    "imagenProducto": "images/cilindros.png",
                     "datoProducto": "diámetro en mm",
                     "infoDatoProducto": "10mm, 15mm, 20mm, 25mm"
                 },
@@ -55,7 +55,7 @@
                     "id": "CIL-007",
                     "nombreProducto": "Cilindro de Aire",
                     "descripcionProducto": "Cilindro de aire ligero para control de válvulas",
-                    "imagenProducto": "src/public/cilindros.png",
+                    "imagenProducto": "images/cilindros.png",
                     "datoProducto": "diámetro en mm",
                     "infoDatoProducto": "25mm, 40mm, 60mm, 80mm"
                 },
@@ -63,7 +63,7 @@
                     "id": "CIL-008",
                     "nombreProducto": "Cilindro Compacto",
                     "descripcionProducto": "Cilindro compacto para espacios reducidos",
-                    "imagenProducto": "src/public/cilindros.png",
+                    "imagenProducto": "images/cilindros.png",
                     "datoProducto": "diámetro en mm",
                     "infoDatoProducto": "20mm, 25mm, 32mm, 40mm"
                 },
@@ -71,7 +71,7 @@
                     "id": "CIL-009",
                     "nombreProducto": "Cilindro de Impacto",
                     "descripcionProducto": "Cilindro de impacto para tareas de golpeo",
-                    "imagenProducto": "src/public/cilindros.png",
+                    "imagenProducto": "images/cilindros.png",
                     "datoProducto": "diámetro en mm",
                     "infoDatoProducto": "50mm, 75mm, 100mm, 125mm"
                 },
@@ -79,7 +79,7 @@
                     "id": "CIL-010",
                     "nombreProducto": "Cilindro de Aluminio",
                     "descripcionProducto": "Cilindro ligero de aluminio para aplicaciones especiales",
-                    "imagenProducto": "src/public/cilindros.png",
+                    "imagenProducto": "images/cilindros.png",
                     "datoProducto": "diámetro en mm",
                     "infoDatoProducto": "40mm, 60mm, 80mm, 100mm"
                 }
@@ -92,7 +92,7 @@
                     "id": "CAN-001",
                     "nombreProducto": "Caño PVC",
                     "descripcionProducto": "Caño de PVC para sistemas de plomería",
-                    "imagenProducto": "src/public/caños.png",
+                    "imagenProducto": "images/caños.png",
                     "datoProducto": "diámetro en pulgadas",
                     "infoDatoProducto": "1/2\", 3/4\", 1\", 1.5\""
                 },
@@ -100,7 +100,7 @@
                     "id": "CAN-002",
                     "nombreProducto": "Caño Galvanizado",
                     "descripcionProducto": "Caño galvanizado resistente a la corrosión",
-                    "imagenProducto": "src/public/caños.png",
+                    "imagenProducto": "images/caños.png",
                     "datoProducto": "diámetro en pulgadas",
                     "infoDatoProducto": "1/2\", 3/4\", 1\", 1.25\""
                 },
@@ -108,7 +108,7 @@
                     "id": "CAN-003",
                     "nombreProducto": "Caño de Cobre",
                     "descripcionProducto": "Caño de cobre para instalaciones de agua caliente",
-                    "imagenProducto": "src/public/caños.png",
+                    "imagenProducto": "images/caños.png",
                     "datoProducto": "diámetro en pulgadas",
                     "infoDatoProducto": "1/4\", 3/8\", 1/2\", 3/4\""
                 },
@@ -116,7 +116,7 @@
                     "id": "CAN-004",
                     "nombreProducto": "Caño de Aluminio",
                     "descripcionProducto": "Caño de aluminio liviano y resistente",
-                    "imagenProducto": "src/public/caños.png",
+                    "imagenProducto": "images/caños.png",
                     "datoProducto": "diámetro en pulgadas",
                     "infoDatoProducto": "1\", 1.5\", 2\", 2.5\""
                 },
@@ -124,7 +124,7 @@
                     "id": "CAN-005",
                     "nombreProducto": "Caño CPVC",
                     "descripcionProducto": "Caño CPVC para sistemas de agua caliente",
-                    "imagenProducto": "src/public/caños.png",
+                    "imagenProducto": "images/caños.png",
                     "datoProducto": "diámetro en pulgadas",
                     "infoDatoProducto": "3/4\", 1\", 1.25\", 1.5\""
                 },
@@ -132,7 +132,7 @@
                     "id": "CAN-006",
                     "nombreProducto": "Caño PEX",
                     "descripcionProducto": "Caño PEX flexible para plomería",
-                    "imagenProducto": "src/public/caños.png",
+                    "imagenProducto": "images/caños.png",
                     "datoProducto": "diámetro en pulgadas",
                     "infoDatoProducto": "1/2\", 3/4\", 1\", 1.25\""
                 },
@@ -140,7 +140,7 @@
                     "id": "CAN-007",
                     "nombreProducto": "Caño HDPE",
                     "descripcionProducto": "Caño HDPE para sistemas de riego",
-                    "imagenProducto": "src/public/caños.png",
+                    "imagenProducto": "images/caños.png",
                     "datoProducto": "diámetro en pulgadas",
                     "infoDatoProducto": "1\", 1.5\", 2\", 3\""
                 },
@@ -148,7 +148,7 @@
                     "id": "CAN-008",
                     "nombreProducto": "Caño Flexible",
                     "descripcionProducto": "Caño flexible para instalaciones difíciles",
-                    "imagenProducto": "src/public/caños.png",
+                    "imagenProducto": "images/caños.png",
                     "datoProducto": "diámetro en pulgadas",
                     "infoDatoProducto": "1/2\", 3/4\", 1\", 1.25\""
                 },
@@ -156,7 +156,7 @@
                     "id": "CAN-009",
                     "nombreProducto": "Caño de Hierro Fundido",
                     "descripcionProducto": "Caño de hierro fundido para drenaje",
-                    "imagenProducto": "src/public/caños.png",
+                    "imagenProducto": "images/caños.png",
                     "datoProducto": "diámetro en pulgadas",
                     "infoDatoProducto": "2\", 3\", 4\", 6\""
                 },
@@ -164,7 +164,7 @@
                     "id": "CAN-010",
                     "nombreProducto": "Caño PVC Doble Pared",
                     "descripcionProducto": "Caño PVC de doble pared para sistemas especiales",
-                    "imagenProducto": "src/public/caños.png",
+                    "imagenProducto": "images/caños.png",
                     "datoProducto": "diámetro en pulgadas",
                     "infoDatoProducto": "4\", 6\", 8\", 10\""
                 }
@@ -177,7 +177,7 @@
                     "id": "BRI-001",
                     "nombreProducto": "Brida de Acero",
                     "descripcionProducto": "Brida de acero para conexiones industriales",
-                    "imagenProducto": "src/public/flanger.png",
+                    "imagenProducto": "images/flanger.png",
                     "datoProducto": "diámetro en pulgadas",
                     "infoDatoProducto": "1\", 2\", 3\", 4\""
                 },
@@ -185,7 +185,7 @@
                     "id": "BRI-002",
                     "nombreProducto": "Brida de Acero Inoxidable",
                     "descripcionProducto": "Brida de acero inoxidable resistente a la corrosión",
-                    "imagenProducto": "src/public/flanger.png",
+                    "imagenProducto": "images/flanger.png",
                     "datoProducto": "diámetro en pulgadas",
                     "infoDatoProducto": "1\", 1.5\", 2\", 2.5\""
                 },
@@ -193,7 +193,7 @@
                     "id": "BRI-003",
                     "nombreProducto": "Brida de PVC",
                     "descripcionProducto": "Brida de PVC para aplicaciones químicas",
-                    "imagenProducto": "src/public/flanger.png",
+                    "imagenProducto": "images/flanger.png",
                     "datoProducto": "diámetro en pulgadas",
                     "infoDatoProducto": "1/2\", 3/4\", 1\", 1.25\""
                 },
@@ -201,7 +201,7 @@
                     "id": "BRI-004",
                     "nombreProducto": "Brida de Hierro Fundido",
                     "descripcionProducto": "Brida de hierro fundido para alta presión",
-                    "imagenProducto": "src/public/flanger.png",
+                    "imagenProducto": "images/flanger.png",
                     "datoProducto": "diámetro en pulgadas",
                     "infoDatoProducto": "2\", 3\", 4\", 6\""
                 },
@@ -209,7 +209,7 @@
                     "id": "BRI-005",
                     "nombreProducto": "Brida de Aleación",
                     "descripcionProducto": "Brida de aleación resistente a temperaturas extremas",
-                    "imagenProducto": "src/public/flanger.png",
+                    "imagenProducto": "images/flanger.png",
                     "datoProducto": "diámetro en pulgadas",
                     "infoDatoProducto": "1\", 1.5\", 2\", 2.5\""
                 },
@@ -217,7 +217,7 @@
                     "id": "BRI-006",
                     "nombreProducto": "Brida Ciega",
                     "descripcionProducto": "Brida ciega para cerrar extremos de tuberías",
-                    "imagenProducto": "src/public/flanger.png",
+                    "imagenProducto": "images/flanger.png",
                     "datoProducto": "diámetro en pulgadas",
                     "infoDatoProducto": "3\", 4\", 6\", 8\""
                 },
@@ -233,7 +233,7 @@
                     "id": "BRI-008",
                     "nombreProducto": "Brida de Soldadura",
                     "descripcionProducto": "Brida de soldadura para conexiones permanentes",
-                    "imagenProducto": "src/public/flanger.png",
+                    "imagenProducto": "images/flanger.png",
                     "datoProducto": "diámetro en pulgadas",
                     "infoDatoProducto": "1\", 1.5\", 2\", 2.5\""
                 },
@@ -241,7 +241,7 @@
                     "id": "BRI-009",
                     "nombreProducto": "Brida Orificio",
                     "descripcionProducto": "Brida con orificio para medición de flujo",
-                    "imagenProducto": "src/public/flanger.png",
+                    "imagenProducto": "images/flanger.png",
                     "datoProducto": "diámetro en pulgadas",
                     "infoDatoProducto": "2\", 3\", 4\", 6\""
                 },
@@ -249,7 +249,7 @@
                     "id": "BRI-010",
                     "nombreProducto": "Brida de Titanio",
                     "descripcionProducto": "Brida de titanio para aplicaciones especiales",
-                    "imagenProducto": "src/public/flanger.png",
+                    "imagenProducto": "images/flanger.png",
                     "datoProducto": "diámetro en pulgadas",
                     "infoDatoProducto": "1\", 1.5\", 2\", 2.5\""
                 }
@@ -262,7 +262,7 @@
                     "id": "VAL-001",
                     "nombreProducto": "Válvula de Bola",
                     "descripcionProducto": "Válvula de bola para control de flujo",
-                    "imagenProducto": "src/public/valvulas.png",
+                    "imagenProducto": "images/valvulas.png",
                     "datoProducto": "tamaño en pulgadas",
                     "infoDatoProducto": "1/2\", 3/4\", 1\", 1.25\""
                 },
@@ -270,7 +270,7 @@
                     "id": "VAL-002",
                     "nombreProducto": "Válvula de Compuerta",
                     "descripcionProducto": "Válvula de compuerta para cierre hermético",
-                    "imagenProducto": "src/public/valvulas.png",
+                    "imagenProducto": "images/valvulas.png",
                     "datoProducto": "tamaño en pulgadas",
                     "infoDatoProducto": "1\", 1.5\", 2\", 2.5\""
                 },
@@ -278,7 +278,7 @@
                     "id": "VAL-003",
                     "nombreProducto": "Válvula de Mariposa",
                     "descripcionProducto": "Válvula de mariposa para regulación de flujo",
-                    "imagenProducto": "src/public/valvulas.png",
+                    "imagenProducto": "images/valvulas.png",
                     "datoProducto": "tamaño en pulgadas",
                     "infoDatoProducto": "2\", 3\", 4\", 6\""
                 },
@@ -286,7 +286,7 @@
                     "id": "VAL-004",
                     "nombreProducto": "Válvula de Globo",
                     "descripcionProducto": "Válvula de globo para control preciso",
-                    "imagenProducto": "src/public/valvulas.png",
+                    "imagenProducto": "images/valvulas.png",
                     "datoProducto": "tamaño en pulgadas",
                     "infoDatoProducto": "1/2\", 3/4\", 1\", 1.25\""
                 },
@@ -294,7 +294,7 @@
                     "id": "VAL-005",
                     "nombreProducto": "Válvula de Retención",
                     "descripcionProducto": "Válvula de retención para evitar flujo inverso",
-                    "imagenProducto": "src/public/valvulas.png",
+                    "imagenProducto": "images/valvulas.png",
                     "datoProducto": "tamaño en pulgadas",
                     "infoDatoProducto": "1\", 1.5\", 2\", 2.5\""
                 },
@@ -302,7 +302,7 @@
                     "id": "VAL-006",
                     "nombreProducto": "Válvula de Diafragma",
                     "descripcionProducto": "Válvula de diafragma para fluidos corrosivos",
-                    "imagenProducto": "src/public/valvulas.png",
+                    "imagenProducto": "images/valvulas.png",
                     "datoProducto": "tamaño en pulgadas",
                     "infoDatoProducto": "1/2\", 3/4\", 1\", 1.25\""
                 },
@@ -310,7 +310,7 @@
                     "id": "VAL-007",
                     "nombreProducto": "Válvula de Aguja",
                     "descripcionProducto": "Válvula de aguja para control de flujo preciso",
-                    "imagenProducto": "src/public/valvulas.png",
+                    "imagenProducto": "images/valvulas.png",
                     "datoProducto": "tamaño en pulgadas",
                     "infoDatoProducto": "1/4\", 3/8\", 1/2\", 3/4\""
                 },
@@ -318,7 +318,7 @@
                     "id": "VAL-008",
                     "nombreProducto": "Válvula de Bypass",
                     "descripcionProducto": "Válvula de bypass para desviar flujo",
-                    "imagenProducto": "src/public/valvulas.png",
+                    "imagenProducto": "images/valvulas.png",
                     "datoProducto": "tamaño en pulgadas",
                     "infoDatoProducto": "1\", 1.5\", 2\", 2.5\""
                 },
@@ -326,7 +326,7 @@
                     "id": "VAL-009",
                     "nombreProducto": "Válvula de Control",
                     "descripcionProducto": "Válvula de control para regulación automática",
-                    "imagenProducto": "src/public/valvulas.png",
+                    "imagenProducto": "images/valvulas.png",
                     "datoProducto": "tamaño en pulgadas",
                     "infoDatoProducto": "2\", 3\", 4\", 6\""
                 },
@@ -334,7 +334,7 @@
                     "id": "VAL-010",
                     "nombreProducto": "Válvula de Solenoide",
                     "descripcionProducto": "Válvula de solenoide para control eléctrico",
-                    "imagenProducto": "src/public/valvulas.png",
+                    "imagenProducto": "images/valvulas.png",
                     "datoProducto": "tamaño en pulgadas",
                     "infoDatoProducto": "1/2\", 3/4\", 1\", 1.25\""
                 }
@@ -347,7 +347,7 @@
                     "id": "MOR-001",
                     "nombreProducto": "Mortero para Albañilería",
                     "descripcionProducto": "Mortero premezclado para albañilería general",
-                    "imagenProducto": "src/public/mortero.png",
+                    "imagenProducto": "images/mortero.png",
                     "datoProducto": "tipo de uso",
                     "infoDatoProducto": "Interior, Exterior"
                 },
@@ -355,7 +355,7 @@
                     "id": "MOR-002",
                     "nombreProducto": "Mortero de Reparación",
                     "descripcionProducto": "Mortero para reparar superficies dañadas",
-                    "imagenProducto": "src/public/mortero.png",
+                    "imagenProducto": "images/mortero.png",
                     "datoProducto": "tipo de superficie",
                     "infoDatoProducto": "Concreto, Ladrillo, Piedra"
                 },
@@ -363,7 +363,7 @@
                     "id": "MOR-003",
                     "nombreProducto": "Mortero Autonivelante",
                     "descripcionProducto": "Mortero autonivelante para pisos",
-                    "imagenProducto": "src/public/mortero.png",
+                    "imagenProducto": "images/mortero.png",
                     "datoProducto": "nivelación en mm",
                     "infoDatoProducto": "3mm, 5mm, 10mm"
                 },
@@ -371,7 +371,7 @@
                     "id": "MOR-004",
                     "nombreProducto": "Mortero para Azulejos",
                     "descripcionProducto": "Mortero para la instalación de azulejos y cerámicas",
-                    "imagenProducto": "src/public/mortero.png",
+                    "imagenProducto": "images/mortero.png",
                     "datoProducto": "tipo de baldosa",
                     "infoDatoProducto": "Cerámica, Porcelanato, Mosaico"
                 },
@@ -379,7 +379,7 @@
                     "id": "MOR-005",
                     "nombreProducto": "Mortero de Unión",
                     "descripcionProducto": "Mortero de unión para albañilería estructural",
-                    "imagenProducto": "src/public/mortero.png",
+                    "imagenProducto": "images/mortero.png",
                     "datoProducto": "resistencia en MPa",
                     "infoDatoProducto": "15MPa, 20MPa, 25MPa"
                 },
@@ -387,7 +387,7 @@
                     "id": "MOR-006",
                     "nombreProducto": "Mortero Refractario",
                     "descripcionProducto": "Mortero resistente a altas temperaturas",
-                    "imagenProducto": "src/public/mortero.png",
+                    "imagenProducto": "images/mortero.png",
                     "datoProducto": "temperatura máxima en °C",
                     "infoDatoProducto": "1000°C, 1500°C, 2000°C"
                 },
@@ -395,7 +395,7 @@
                     "id": "MOR-007",
                     "nombreProducto": "Mortero de Yeso",
                     "descripcionProducto": "Mortero a base de yeso para interiores",
-                    "imagenProducto": "src/public/mortero.png",
+                    "imagenProducto": "images/mortero.png",
                     "datoProducto": "tiempo de fraguado en minutos",
                     "infoDatoProducto": "10min, 20min, 30min"
                 },
@@ -403,7 +403,7 @@
                     "id": "MOR-008",
                     "nombreProducto": "Mortero Impermeable",
                     "descripcionProducto": "Mortero con propiedades impermeables",
-                    "imagenProducto": "src/public/mortero.png",
+                    "imagenProducto": "images/mortero.png",
                     "datoProducto": "resistencia al agua",
                     "infoDatoProducto": "Alta, Media, Baja"
                 },
@@ -411,7 +411,7 @@
                     "id": "MOR-009",
                     "nombreProducto": "Mortero de Acabado",
                     "descripcionProducto": "Mortero para acabados superficiales",
-                    "imagenProducto": "src/public/mortero.png",
+                    "imagenProducto": "images/mortero.png",
                     "datoProducto": "tipo de textura",
                     "infoDatoProducto": "Liso, Rugoso, Estucado"
                 },
@@ -419,7 +419,7 @@
                     "id": "MOR-010",
                     "nombreProducto": "Mortero Estructural",
                     "descripcionProducto": "Mortero de alta resistencia para estructuras",
-                    "imagenProducto": "src/public/mortero.png",
+                    "imagenProducto": "images/mortero.png",
                     "datoProducto": "resistencia en MPa",
                     "infoDatoProducto": "30MPa, 40MPa, 50MPa"
                 }
@@ -432,7 +432,7 @@
                     "id": "VAR-001",
                     "nombreProducto": "Varilla de Acero",
                     "descripcionProducto": "Varilla de acero para refuerzo de concreto",
-                    "imagenProducto": "src/public/varillas.png",
+                    "imagenProducto": "images/varillas.png",
                     "datoProducto": "diámetro en mm",
                     "infoDatoProducto": "6mm, 8mm, 10mm, 12mm"
                 },
@@ -440,7 +440,7 @@
                     "id": "VAR-002",
                     "nombreProducto": "Varilla Roscada",
                     "descripcionProducto": "Varilla con rosca para conexiones y soportes",
-                    "imagenProducto": "src/public/varillas.png",
+                    "imagenProducto": "images/varillas.png",
                     "datoProducto": "longitud en pulgadas",
                     "infoDatoProducto": "12\", 18\", 24\", 36\""
                 },
@@ -448,7 +448,7 @@
                     "id": "VAR-003",
                     "nombreProducto": "Varilla de Fibra de Vidrio",
                     "descripcionProducto": "Varilla de fibra de vidrio para refuerzo liviano",
-                    "imagenProducto": "src/public/varillas.png",
+                    "imagenProducto": "images/varillas.png",
                     "datoProducto": "diámetro en mm",
                     "infoDatoProducto": "4mm, 6mm, 8mm, 10mm"
                 },
@@ -456,7 +456,7 @@
                     "id": "VAR-004",
                     "nombreProducto": "Varilla de Aluminio",
                     "descripcionProducto": "Varilla de aluminio para aplicaciones ligeras",
-                    "imagenProducto": "src/public/varillas.png",
+                    "imagenProducto": "images/varillas.png",
                     "datoProducto": "diámetro en mm",
                     "infoDatoProducto": "5mm, 7mm, 9mm, 11mm"
                 },
@@ -464,7 +464,7 @@
                     "id": "VAR-005",
                     "nombreProducto": "Varilla de Acero Inoxidable",
                     "descripcionProducto": "Varilla de acero inoxidable resistente a la corrosión",
-                    "imagenProducto": "src/public/varillas.png",
+                    "imagenProducto": "images/varillas.png",
                     "datoProducto": "diámetro en mm",
                     "infoDatoProducto": "6mm, 8mm, 10mm, 12mm"
                 },
@@ -472,7 +472,7 @@
                     "id": "VAR-006",
                     "nombreProducto": "Varilla de Cobre",
                     "descripcionProducto": "Varilla de cobre para aplicaciones eléctricas",
-                    "imagenProducto": "src/public/varillas.png",
+                    "imagenProducto": "images/varillas.png",
                     "datoProducto": "diámetro en mm",
                     "infoDatoProducto": "4mm, 6mm, 8mm, 10mm"
                 },
@@ -480,7 +480,7 @@
                     "id": "VAR-007",
                     "nombreProducto": "Varilla de Fibra de Carbono",
                     "descripcionProducto": "Varilla de fibra de carbono para refuerzo de alta resistencia",
-                    "imagenProducto": "src/public/varillas.png",
+                    "imagenProducto": "images/varillas.png",
                     "datoProducto": "diámetro en mm",
                     "infoDatoProducto": "5mm, 7mm, 9mm, 11mm"
                 },
@@ -488,7 +488,7 @@
                     "id": "VAR-008",
                     "nombreProducto": "Varilla de Polietileno",
                     "descripcionProducto": "Varilla de polietileno para aplicaciones químicas",
-                    "imagenProducto": "src/public/varillas.png",
+                    "imagenProducto": "images/varillas.png",
                     "datoProducto": "diámetro en mm",
                     "infoDatoProducto": "8mm, 10mm, 12mm, 14mm"
                 },
@@ -496,7 +496,7 @@
                     "id": "VAR-009",
                     "nombreProducto": "Varilla de Hierro",
                     "descripcionProducto": "Varilla de hierro para diversas aplicaciones",
-                    "imagenProducto": "src/public/varillas.png",
+                    "imagenProducto": "images/varillas.png",
                     "datoProducto": "diámetro en mm",
                     "infoDatoProducto": "6mm, 8mm, 10mm, 12mm"
                 },
@@ -504,7 +504,7 @@
                     "id": "VAR-010",
                     "nombreProducto": "Varilla de Titanio",
                     "descripcionProducto": "Varilla de titanio para aplicaciones especiales",
-                    "imagenProducto": "src/public/varillas.png",
+                    "imagenProducto": "images/varillas.png",
                     "datoProducto": "diámetro en mm",
                     "infoDatoProducto": "4mm, 6mm, 8mm, 10mm"
                 }
@@ -517,7 +517,7 @@
                     "id": "ARA-001",
                     "nombreProducto": "Arandela Plana",
                     "descripcionProducto": "Arandela plana de uso general",
-                    "imagenProducto": "src/public/arandela.png",
+                    "imagenProducto": "images/arandela.png",
                     "datoProducto": "diámetro interior en mm",
                     "infoDatoProducto": "6mm, 8mm, 10mm, 12mm"
                 },
@@ -525,7 +525,7 @@
                     "id": "ARA-002",
                     "nombreProducto": "Arandela de Presión",
                     "descripcionProducto": "Arandela con resorte para distribución de carga",
-                    "imagenProducto": "src/public/arandela.png",
+                    "imagenProducto": "images/arandela.png",
                     "datoProducto": "diámetro interior en mm",
                     "infoDatoProducto": "8mm, 10mm, 12mm, 14mm"
                 },
@@ -533,7 +533,7 @@
                     "id": "ARA-003",
                     "nombreProducto": "Arandela de Seguridad",
                     "descripcionProducto": "Arandela con lengüetas para evitar aflojamiento",
-                    "imagenProducto": "src/public/arandela.png",
+                    "imagenProducto": "images/arandela.png",
                     "datoProducto": "diámetro interior en mm",
                     "infoDatoProducto": "10mm, 12mm, 14mm, 16mm"
                 },
@@ -541,7 +541,7 @@
                     "id": "ARA-004",
                     "nombreProducto": "Arandela de Goma",
                     "descripcionProducto": "Arandela de goma para sellado y absorción de vibraciones",
-                    "imagenProducto": "src/public/arandela.png",
+                    "imagenProducto": "images/arandela.png",
                     "datoProducto": "diámetro interior en mm",
                     "infoDatoProducto": "8mm, 10mm, 12mm, 14mm"
                 },
@@ -549,7 +549,7 @@
                     "id": "ARA-005",
                     "nombreProducto": "Arandela de Nylon",
                     "descripcionProducto": "Arandela de nylon para aislamiento eléctrico",
-                    "imagenProducto": "src/public/arandela.png",
+                    "imagenProducto": "images/arandela.png",
                     "datoProducto": "diámetro interior en mm",
                     "infoDatoProducto": "6mm, 8mm, 10mm, 12mm"
                 },
@@ -557,7 +557,7 @@
                     "id": "ARA-006",
                     "nombreProducto": "Arandela de Cobre",
                     "descripcionProducto": "Arandela de cobre para conducción eléctrica",
-                    "imagenProducto": "src/public/arandela.png",
+                    "imagenProducto": "images/arandela.png",
                     "datoProducto": "diámetro interior en mm",
                     "infoDatoProducto": "6mm, 8mm, 10mm, 12mm"
                 },
@@ -565,7 +565,7 @@
                     "id": "ARA-007",
                     "nombreProducto": "Arandela de Acero Inoxidable",
                     "descripcionProducto": "Arandela de acero inoxidable resistente a la corrosión",
-                    "imagenProducto": "src/public/arandela.png",
+                    "imagenProducto": "images/arandela.png",
                     "datoProducto": "diámetro interior en mm",
                     "infoDatoProducto": "8mm, 10mm, 12mm, 14mm"
                 },
@@ -573,7 +573,7 @@
                     "id": "ARA-008",
                     "nombreProducto": "Arandela Belleville",
                     "descripcionProducto": "Arandela Belleville para aplicaciones de alta carga",
-                    "imagenProducto": "src/public/arandela.png",
+                    "imagenProducto": "images/arandela.png",
                     "datoProducto": "diámetro interior en mm",
                     "infoDatoProducto": "12mm, 14mm, 16mm, 18mm"
                 },
@@ -581,7 +581,7 @@
                     "id": "ARA-009",
                     "nombreProducto": "Arandela Frenadora",
                     "descripcionProducto": "Arandela frenadora con función de bloqueo",
-                    "imagenProducto": "src/public/arandela.png",
+                    "imagenProducto": "images/arandela.png",
                     "datoProducto": "diámetro interior en mm",
                     "infoDatoProducto": "10mm, 12mm, 14mm, 16mm"
                 },
@@ -589,7 +589,7 @@
                     "id": "ARA-010",
                     "nombreProducto": "Arandela de Fibra",
                     "descripcionProducto": "Arandela de fibra para sellado y aislamiento",
-                    "imagenProducto": "src/public/arandela.png",
+                    "imagenProducto": "images/arandela.png",
                     "datoProducto": "diámetro interior en mm",
                     "infoDatoProducto": "6mm, 8mm, 10mm, 12mm"
                 }
@@ -602,7 +602,7 @@
                     "id": "ELE-001",
                     "nombreProducto": "Interruptor de Luz",
                     "descripcionProducto": "Interruptor de luz de encendido/apagado",
-                    "imagenProducto": "src/public/electricidad.png",
+                    "imagenProducto": "images/electricidad.png",
                     "datoProducto": "voltaje en V",
                     "infoDatoProducto": "110V, 220V"
                 },
@@ -610,7 +610,7 @@
                     "id": "ELE-002",
                     "nombreProducto": "Enchufe de Pared",
                     "descripcionProducto": "Enchufe de pared estándar",
-                    "imagenProducto": "src/public/electricidad.png",
+                    "imagenProducto": "images/electricidad.png",
                     "datoProducto": "voltaje en V",
                     "infoDatoProducto": "110V, 220V"
                 },
@@ -618,7 +618,7 @@
                     "id": "ELE-003",
                     "nombreProducto": "Cable de Extensión",
                     "descripcionProducto": "Cable de extensión eléctrica",
-                    "imagenProducto": "src/public/electricidad.png",
+                    "imagenProducto": "images/electricidad.png",
                     "datoProducto": "longitud en metros",
                     "infoDatoProducto": "3m, 5m, 10m, 15m"
                 },
@@ -626,7 +626,7 @@
                     "id": "ELE-004",
                     "nombreProducto": "Fusible",
                     "descripcionProducto": "Fusible de protección para circuitos eléctricos",
-                    "imagenProducto": "src/public/electricidad.png",
+                    "imagenProducto": "images/electricidad.png",
                     "datoProducto": "amperaje en A",
                     "infoDatoProducto": "5A, 10A, 15A, 20A"
                 },
@@ -634,7 +634,7 @@
                     "id": "ELE-005",
                     "nombreProducto": "Regleta de Enchufes",
                     "descripcionProducto": "Regleta con múltiples enchufes",
-                    "imagenProducto": "src/public/electricidad.png",
+                    "imagenProducto": "images/electricidad.png",
                     "datoProducto": "número de enchufes",
                     "infoDatoProducto": "4, 6, 8, 10"
                 },
@@ -642,7 +642,7 @@
                     "id": "ELE-006",
                     "nombreProducto": "Conector de Cable",
                     "descripcionProducto": "Conector para unir cables eléctricos",
-                    "imagenProducto": "src/public/electricidad.png",
+                    "imagenProducto": "images/electricidad.png",
                     "datoProducto": "número de cables",
                     "infoDatoProducto": "2 cables, 3 cables, 4 cables"
                 },
@@ -650,7 +650,7 @@
                     "id": "ELE-007",
                     "nombreProducto": "Interruptor Diferencial",
                     "descripcionProducto": "Interruptor diferencial para protección de circuitos",
-                    "imagenProducto": "src/public/electricidad.png",
+                    "imagenProducto": "images/electricidad.png",
                     "datoProducto": "amperaje en A",
                     "infoDatoProducto": "30A, 50A, 100A"
                 },
@@ -658,7 +658,7 @@
                     "id": "ELE-008",
                     "nombreProducto": "Caja de Distribución",
                     "descripcionProducto": "Caja de distribución eléctrica para conexiones",
-                    "imagenProducto": "src/public/electricidad.png",
+                    "imagenProducto": "images/electricidad.png",
                     "datoProducto": "número de conexiones",
                     "infoDatoProducto": "4 conexiones, 6 conexiones, 8 conexiones"
                 },
@@ -666,7 +666,7 @@
                     "id": "ELE-009",
                     "nombreProducto": "Enchufe Inteligente",
                     "descripcionProducto": "Enchufe con capacidad de control remoto",
-                    "imagenProducto": "src/public/electricidad.png",
+                    "imagenProducto": "images/electricidad.png",
                     "datoProducto": "voltaje en V",
                     "infoDatoProducto": "110V, 220V"
                 },
@@ -674,7 +674,7 @@
                     "id": "ELE-010",
                     "nombreProducto": "Temporizador Programable",
                     "descripcionProducto": "Temporizador programable para dispositivos eléctricos",
-                    "imagenProducto": "src/public/electricidad.png",
+                    "imagenProducto": "images/electricidad.png",
                     "datoProducto": "voltaje en V",
                     "infoDatoProducto": "110V, 220V"
                 }
@@ -687,7 +687,7 @@
                     "id": "MOT-001",
                     "nombreProducto": "Motor Eléctrico de Inducción",
                     "descripcionProducto": "Motor eléctrico de inducción para aplicaciones industriales",
-                    "imagenProducto": "src/public/tapadecilindro.png",
+                    "imagenProducto": "images/tapadecilindro.png",
                     "datoProducto": "potencia en HP",
                     "infoDatoProducto": "1 HP, 2 HP, 3 HP, 5 HP"
                 },
@@ -695,7 +695,7 @@
                     "id": "MOT-002",
                     "nombreProducto": "Motor de Corriente Continua",
                     "descripcionProducto": "Motor de corriente continua para control de velocidad",
-                    "imagenProducto": "src/public/tapadecilindro.png",
+                    "imagenProducto": "images/tapadecilindro.png",
                     "datoProducto": "voltaje en V",
                     "infoDatoProducto": "24V, 48V, 72V, 110V"
                 },
@@ -703,7 +703,7 @@
                     "id": "MOT-003",
                     "nombreProducto": "Motor Paso a Paso",
                     "descripcionProducto": "Motor paso a paso para posicionamiento preciso",
-                    "imagenProducto": "src/public/tapadecilindro.png",
+                    "imagenProducto": "images/tapadecilindro.png",
                     "datoProducto": "ángulo de paso en grados",
                     "infoDatoProducto": "1.8°, 0.9°, 0.45°"
                 },
@@ -711,7 +711,7 @@
                     "id": "MOT-004",
                     "nombreProducto": "Motor de Corriente Alterna",
                     "descripcionProducto": "Motor de corriente alterna para diversas aplicaciones",
-                    "imagenProducto": "src/public/tapadecilindro.png",
+                    "imagenProducto": "images/tapadecilindro.png",
                     "datoProducto": "potencia en HP",
                     "infoDatoProducto": "1/2 HP, 1 HP, 2 HP, 3 HP"
                 },
@@ -719,7 +719,7 @@
                     "id": "MOT-005",
                     "nombreProducto": "Motor de Engranajes",
                     "descripcionProducto": "Motor de engranajes para aplicaciones de baja velocidad",
-                    "imagenProducto": "src/public/tapadecilindro.png",
+                    "imagenProducto": "images/tapadecilindro.png",
                     "datoProducto": "relación de engranajes",
                     "infoDatoProducto": "10:1, 20:1, 50:1, 100:1"
                 },
@@ -727,7 +727,7 @@
                     "id": "MOT-006",
                     "nombreProducto": "Motor Lineal",
                     "descripcionProducto": "Motor lineal para movimiento rectilíneo",
-                    "imagenProducto": "src/public/tapadecilindro.png",
+                    "imagenProducto": "images/tapadecilindro.png",
                     "datoProducto": "fuerza en N",
                     "infoDatoProducto": "100N, 200N, 500N, 1000N"
                 },
@@ -735,7 +735,7 @@
                     "id": "MOT-007",
                     "nombreProducto": "Motor de Alta Velocidad",
                     "descripcionProducto": "Motor de alta velocidad para aplicaciones especializadas",
-                    "imagenProducto": "src/public/tapadecilindro.png",
+                    "imagenProducto": "images/tapadecilindro.png",
                     "datoProducto": "velocidad en RPM",
                     "infoDatoProducto": "10000 RPM, 15000 RPM, 20000 RPM"
                 },
@@ -743,7 +743,7 @@
                     "id": "MOT-008",
                     "nombreProducto": "Motor de Baja Vibración",
                     "descripcionProducto": "Motor con baja vibración para aplicaciones sensibles",
-                    "imagenProducto": "src/public/tapadecilindro.png",
+                    "imagenProducto": "images/tapadecilindro.png",
                     "datoProducto": "niveles de vibración en m/s²",
                     "infoDatoProducto": "0.5 m/s², 1 m/s², 2 m/s²"
                 },
@@ -751,7 +751,7 @@
                     "id": "MOT-009",
                     "nombreProducto": "Motor de Potencia Variable",
                     "descripcionProducto": "Motor con control de potencia variable",
-                    "imagenProducto": "src/public/tapadecilindro.png",
+                    "imagenProducto": "images/tapadecilindro.png",
                     "datoProducto": "rango de potencia en HP",
                     "infoDatoProducto": "0.5 - 2 HP, 1 - 5 HP, 3 - 10 HP"
                 },
@@ -759,7 +759,7 @@
                     "id": "MOT-010",
                     "nombreProducto": "Motor para Automatización",
                     "descripcionProducto": "Motor especialmente diseñado para sistemas de automatización",
-                    "imagenProducto": "src/public/tapadecilindro.png",
+                    "imagenProducto": "images/tapadecilindro.png",
                     "datoProducto": "voltaje en V",
                     "infoDatoProducto": "110V, 220V, 380V"
                 }
@@ -781,7 +781,7 @@
                             "id": "MUE-002",
                             "nombreProducto": "Mesa de Escritorio",
                             "descripcionProducto": "Mesa de escritorio con amplia superficie y cajones",
-                            "imagenProducto": "src/public/muebles.png",
+                            "imagenProducto": "images/muebles.png",
                             "datoProducto": "dimensiones en cm",
                             "infoDatoProducto": "120x60, 150x75, 180x90"
                         },
@@ -789,7 +789,7 @@
                             "id": "MUE-003",
                             "nombreProducto": "Sofá de Cuero",
                             "descripcionProducto": "Sofá de cuero elegante y cómodo para la sala de estar",
-                            "imagenProducto": "src/public/muebles.png",
+                            "imagenProducto": "images/muebles.png",
                             "datoProducto": "plazas",
                             "infoDatoProducto": "2 plazas, 3 plazas, 4 plazas"
                         },
@@ -797,7 +797,7 @@
                             "id": "MUE-004",
                             "nombreProducto": "Estantería Modular",
                             "descripcionProducto": "Estantería modular ajustable para almacenamiento versátil",
-                            "imagenProducto": "src/public/muebles.png",
+                            "imagenProducto": "images/muebles.png",
                             "datoProducto": "niveles",
                             "infoDatoProducto": "3 niveles, 5 niveles, 7 niveles"
                         },
@@ -805,7 +805,7 @@
                             "id": "MUE-005",
                             "nombreProducto": "Cama con Almacenamiento",
                             "descripcionProducto": "Cama con cajones incorporados para maximizar el espacio",
-                            "imagenProducto": "src/public/muebles.png",
+                            "imagenProducto": "images/muebles.png",
                             "datoProducto": "tamaño",
                             "infoDatoProducto": "Individual, Matrimonial, Queen, King"
                         },
@@ -813,7 +813,7 @@
                             "id": "MUE-006",
                             "nombreProducto": "Mesa de Centro Moderna",
                             "descripcionProducto": "Mesa de centro moderna con diseño elegante y funcional",
-                            "imagenProducto": "src/public/muebles.png",
+                            "imagenProducto": "images/muebles.png",
                             "datoProducto": "dimensiones en cm",
                             "infoDatoProducto": "80x80, 100x60, 120x70"
                         },
@@ -821,7 +821,7 @@
                             "id": "MUE-007",
                             "nombreProducto": "Armario de Ropa",
                             "descripcionProducto": "Armario espacioso con compartimentos y colgadores",
-                            "imagenProducto": "src/public/muebles.png",
+                            "imagenProducto": "images/muebles.png",
                             "datoProducto": "color",
                             "infoDatoProducto": "Blanco, Madera, Gris, Negro"
                         },
@@ -829,7 +829,7 @@
                             "id": "MUE-008",
                             "nombreProducto": "Escritorio de Esquina",
                             "descripcionProducto": "Escritorio de esquina para optimizar el espacio en la oficina",
-                            "imagenProducto": "src/public/muebles.png",
+                            "imagenProducto": "images/muebles.png",
                             "datoProducto": "dimensiones en cm",
                             "infoDatoProducto": "120x120, 150x150, 180x180"
                         },
@@ -837,7 +837,7 @@
                             "id": "MUE-009",
                             "nombreProducto": "Silla de Comedor",
                             "descripcionProducto": "Silla de comedor cómoda y elegante para reuniones familiares",
-                            "imagenProducto": "src/public/muebles.png",
+                            "imagenProducto": "images/muebles.png",
                             "datoProducto": "color",
                             "infoDatoProducto": "Blanco, Negro, Gris, Marrón"
                         },
@@ -845,7 +845,7 @@
                             "id": "MUE-010",
                             "nombreProducto": "Mesa de Comedor Extensible",
                             "descripcionProducto": "Mesa de comedor extensible para acomodar más personas",
-                            "imagenProducto": "src/public/muebles.png",
+                            "imagenProducto": "images/muebles.png",
                             "datoProducto": "capacidad extendida",
                             "infoDatoProducto": "6 personas, 8 personas, 10 personas"
                         }
@@ -861,7 +861,7 @@
                             "id": "TOR-001",
                             "nombreProducto": "Tornillo Phillips",
                             "descripcionProducto": "Tornillo con cabeza Phillips para uso general",
-                            "imagenProducto": "src/public/tornilleria.png",
+                            "imagenProducto": "images/tornilleria.png",
                             "datoProducto": "longitud en mm",
                             "infoDatoProducto": "10mm, 20mm, 30mm, 40mm"
                         },
@@ -869,7 +869,7 @@
                             "id": "TOR-002",
                             "nombreProducto": "Tornillo Torx",
                             "descripcionProducto": "Tornillo con cabeza Torx para mayor torque",
-                            "imagenProducto": "src/public/tornilleria.png",
+                            "imagenProducto": "images/tornilleria.png",
                             "datoProducto": "longitud en mm",
                             "infoDatoProducto": "15mm, 25mm, 35mm, 45mm"
                         },
@@ -877,7 +877,7 @@
                             "id": "TOR-003",
                             "nombreProducto": "Tornillo Hexagonal",
                             "descripcionProducto": "Tornillo con cabeza hexagonal para aplicaciones industriales",
-                            "imagenProducto": "src/public/tornilleria.png",
+                            "imagenProducto": "images/tornilleria.png",
                             "datoProducto": "longitud en mm",
                             "infoDatoProducto": "12mm, 22mm, 32mm, 42mm"
                         },
@@ -885,7 +885,7 @@
                             "id": "TOR-004",
                             "nombreProducto": "Tornillo de Madera",
                             "descripcionProducto": "Tornillo diseñado para fijación en madera",
-                            "imagenProducto": "src/public/tornilleria.png",
+                            "imagenProducto": "images/tornilleria.png",
                             "datoProducto": "longitud en mm",
                             "infoDatoProducto": "25mm, 35mm, 50mm, 65mm"
                         },
@@ -893,7 +893,7 @@
                             "id": "TOR-005",
                             "nombreProducto": "Tornillo Autorroscante",
                             "descripcionProducto": "Tornillo autorroscante para unir materiales sin necesidad de perforar",
-                            "imagenProducto": "src/public/tornilleria.png",
+                            "imagenProducto": "images/tornilleria.png",
                             "datoProducto": "longitud en mm",
                             "infoDatoProducto": "20mm, 30mm, 40mm, 50mm"
                         },
@@ -901,7 +901,7 @@
                             "id": "TOR-006",
                             "nombreProducto": "Tornillo de Anclaje",
                             "descripcionProducto": "Tornillo de anclaje para fijación en superficies duras",
-                            "imagenProducto": "src/public/tornilleria.png",
+                            "imagenProducto": "images/tornilleria.png",
                             "datoProducto": "longitud en mm",
                             "infoDatoProducto": "50mm, 75mm, 100mm, 125mm"
                         },
@@ -909,7 +909,7 @@
                             "id": "TOR-007",
                             "nombreProducto": "Tornillo de Rosca Métrica",
                             "descripcionProducto": "Tornillo con rosca métrica para aplicaciones precisas",
-                            "imagenProducto": "src/public/tornilleria.png",
+                            "imagenProducto": "images/tornilleria.png",
                             "datoProducto": "longitud en mm",
                             "infoDatoProducto": "10mm, 20mm, 30mm, 40mm"
                         },
@@ -917,7 +917,7 @@
                             "id": "TOR-008",
                             "nombreProducto": "Tornillo de Acero Inoxidable",
                             "descripcionProducto": "Tornillo de acero inoxidable resistente a la corrosión",
-                            "imagenProducto": "src/public/tornilleria.png",
+                            "imagenProducto": "images/tornilleria.png",
                             "datoProducto": "longitud en mm",
                             "infoDatoProducto": "15mm, 25mm, 35mm, 45mm"
                         },
@@ -925,7 +925,7 @@
                             "id": "TOR-009",
                             "nombreProducto": "Tornillo de Cabeza Plana",
                             "descripcionProducto": "Tornillo con cabeza plana para superficies empotradas",
-                            "imagenProducto": "src/public/tornilleria.png",
+                            "imagenProducto": "images/tornilleria.png",
                             "datoProducto": "longitud en mm",
                             "infoDatoProducto": "12mm, 22mm, 32mm, 42mm"
                         },
@@ -933,7 +933,7 @@
                             "id": "TOR-010",
                             "nombreProducto": "Tornillo de Seguridad",
                             "descripcionProducto": "Tornillo de seguridad con cabeza especial para evitar manipulación",
-                            "imagenProducto": "src/public/tornilleria.png",
+                            "imagenProducto": "images/tornilleria.png",
                             "datoProducto": "longitud en mm",
                             "infoDatoProducto": "20mm, 30mm, 40mm, 50mm"
                         }
@@ -946,7 +946,7 @@
                             "id": "EXE-001",
                             "nombreProducto": "Estantería Metálica",
                             "descripcionProducto": "Estantería metálica resistente para almacenamiento industrial",
-                            "imagenProducto": "src/public/estanteria.png",
+                            "imagenProducto": "images/estanteria.png",
                             "datoProducto": "dimensiones en cm",
                             "infoDatoProducto": "120x60x180, 150x75x200, 180x90x220"
                         },
@@ -954,7 +954,7 @@
                             "id": "EXE-002",
                             "nombreProducto": "Exhibidor de Pared",
                             "descripcionProducto": "Exhibidor de pared para presentación de productos",
-                            "imagenProducto": "src/public/estanteria.png",
+                            "imagenProducto": "images/estanteria.png",
                             "datoProducto": "dimensiones en cm",
                             "infoDatoProducto": "80x40x120, 100x50x150, 120x60x180"
                         },
@@ -962,7 +962,7 @@
                             "id": "EXE-003",
                             "nombreProducto": "Estantería Flotante",
                             "descripcionProducto": "Estantería flotante para decoración y almacenamiento liviano",
-                            "imagenProducto": "src/public/estanteria.png",
+                            "imagenProducto": "images/estanteria.png",
                             "datoProducto": "dimensiones en cm",
                             "infoDatoProducto": "60x20x4, 80x25x4.5, 100x30x5"
                         },
@@ -970,7 +970,7 @@
                             "id": "EXE-004",
                             "nombreProducto": "Exhibidor de Suelo",
                             "descripcionProducto": "Exhibidor de suelo con múltiples niveles para exposición",
-                            "imagenProducto": "src/public/estanteria.png",
+                            "imagenProducto": "images/estanteria.png",
                             "datoProducto": "dimensiones en cm",
                             "infoDatoProducto": "100x100x160, 120x120x180, 150x150x200"
                         },
@@ -978,7 +978,7 @@
                             "id": "EXE-005",
                             "nombreProducto": "Estantería Modular",
                             "descripcionProducto": "Estantería modular ajustable para diferentes usos",
-                            "imagenProducto": "src/public/estanteria.png",
+                            "imagenProducto": "images/estanteria.png",
                             "datoProducto": "dimensiones en cm",
                             "infoDatoProducto": "80x40x160, 100x50x180, 120x60x200"
                         },
@@ -986,7 +986,7 @@
                             "id": "EXE-006",
                             "nombreProducto": "Exhibidor de Góndola",
                             "descripcionProducto": "Exhibidor de góndola de dos caras para tiendas",
-                            "imagenProducto": "src/public/estanteria.png",
+                            "imagenProducto": "images/estanteria.png",
                             "datoProducto": "dimensiones en cm",
                             "infoDatoProducto": "120x60x160, 150x75x180, 180x90x200"
                         },
@@ -994,7 +994,7 @@
                             "id": "EXE-007",
                             "nombreProducto": "Estantería de Alambre",
                             "descripcionProducto": "Estantería de alambre para ventilación y almacenamiento",
-                            "imagenProducto": "src/public/estanteria.png",
+                            "imagenProducto": "images/estanteria.png",
                             "datoProducto": "dimensiones en cm",
                             "infoDatoProducto": "60x30x120, 80x40x150, 100x50x180"
                         },
@@ -1002,7 +1002,7 @@
                             "id": "EXE-008",
                             "nombreProducto": "Exhibidor de Ropa",
                             "descripcionProducto": "Exhibidor de ropa con perchas y estantes",
-                            "imagenProducto": "src/public/estanteria.png",
+                            "imagenProducto": "images/estanteria.png",
                             "datoProducto": "dimensiones en cm",
                             "infoDatoProducto": "100x50x160, 120x60x180, 150x75x200"
                         },
@@ -1010,7 +1010,7 @@
                             "id": "EXE-009",
                             "nombreProducto": "Estantería de Esquina",
                             "descripcionProducto": "Estantería diseñada para encajar en esquinas",
-                            "imagenProducto": "src/public/estanteria.png",
+                            "imagenProducto": "images/estanteria.png",
                             "datoProducto": "dimensiones en cm",
                             "infoDatoProducto": "60x60x160, 80x80x180, 100x100x200"
                         },
@@ -1018,7 +1018,7 @@
                             "id": "EXE-010",
                             "nombreProducto": "Exhibidor de Libros",
                             "descripcionProducto": "Exhibidor de libros con compartimentos ajustables",
-                            "imagenProducto": "src/public/estanteria.png",
+                            "imagenProducto": "images/estanteria.png",
                             "datoProducto": "dimensiones en cm",
                             "infoDatoProducto": "80x40x160, 100x50x180, 120x60x200"
                         }
